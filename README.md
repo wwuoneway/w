@@ -1,2 +1,2 @@
 # www
-personal webpage
+wwuoneway.github.io/www
