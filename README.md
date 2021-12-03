@@ -1,2 +1,2 @@
 # www
-wwuoneway.github.io/www
+wwuoneway.github.io/w
